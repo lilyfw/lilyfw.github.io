@@ -1,9 +1,8 @@
 +++
-title = 'My First Post'
+title = 'Intro'
 date = 2023-12-10T12:01:10+08:00
 +++
-## Introduction
+## Hello there!
 
-This is **bold** text, and this is *emphasized* text.
+Welcome~
 
-Visit the [Hugo](https://gohugo.io) website!
