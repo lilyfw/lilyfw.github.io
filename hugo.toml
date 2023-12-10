@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lilyfw.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = ["hugo-embed-pdf-shortcode","PaperMod"]
