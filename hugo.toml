@@ -1,4 +1,4 @@
-baseURL = 'https://lilyfw.github.io/'
+baseURL = 'https://lilyfw.xyz/'
 languageCode = 'en-us'
 title = "LilyFW's Space Station"
 theme = ["hugo-embed-pdf-shortcode","PaperMod"]
